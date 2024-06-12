@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Eman-Abdallah/calculator/static/css/main.d113c2d2.css",
+    "main.js": "/Eman-Abdallah/calculator/static/js/main.0b6a4032.js",
+    "static/js/453.83bdee10.chunk.js": "/Eman-Abdallah/calculator/static/js/453.83bdee10.chunk.js",
+    "index.html": "/Eman-Abdallah/calculator/index.html",
+    "main.d113c2d2.css.map": "/Eman-Abdallah/calculator/static/css/main.d113c2d2.css.map",
+    "main.0b6a4032.js.map": "/Eman-Abdallah/calculator/static/js/main.0b6a4032.js.map",
+    "453.83bdee10.chunk.js.map": "/Eman-Abdallah/calculator/static/js/453.83bdee10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d113c2d2.css",
+    "static/js/main.0b6a4032.js"
+  ]
+}
